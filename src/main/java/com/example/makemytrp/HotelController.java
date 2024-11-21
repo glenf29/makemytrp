@@ -12,7 +12,7 @@ public class HotelController {
 
     @GetMapping("/hotel")
     public String getData() {
-        return "Please book hotel from MMT, 75% and 80 % ans 20% discount in North India";
+        return "Please book hotel from MMT, 75% and 80 % ans 20% and 30% discount in North India";
     }
 
 
